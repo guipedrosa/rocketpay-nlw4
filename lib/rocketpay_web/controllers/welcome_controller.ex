@@ -21,7 +21,7 @@ defmodule RocketpayWeb.WelcomeController do
     |> json(reason)
   end
 
-  def welcome_message(conn, params) do
+  def welcome_message(conn, _params) do
     text(conn, "Welcome to Elixir")
   end
 
