@@ -1,19 +1,14 @@
-# Rocketpay
+# Rocketpay Bank
 
-To start your Phoenix server:
+Payments and Transfers API
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
+## Features
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+1. Create User and Bank Account
+2. Deposits an amount to User
+3. Withdraws an amount from User
+4. Transfer funds between Users
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+## Project Inspiration
 
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+[New Level Week #4 by Rocketseat](http://rocketseat.com.br)
