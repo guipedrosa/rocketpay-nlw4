@@ -1,3 +1,5 @@
+![payments image](https://img.icons8.com/cotton/2x/mobile-payment--v3.png)
+
 # Rocketpay
 
 Payments and Transfers API
