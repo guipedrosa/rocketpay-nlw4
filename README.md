@@ -1,4 +1,4 @@
-# Rocketpay Bank
+# Rocketpay
 
 Payments and Transfers API
 
